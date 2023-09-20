@@ -1,4 +1,4 @@
-Hi, i am Evren. I graduated from Kocaeli University - Environmental Engineering. I decided to study in the field of software, which I always dreamed of but never dared to start.
+Hi, i am Evren. I graduated from Kocaeli University - Environmental Engineering. I decided to study in the field of software, which I always dreamed of but never dared to start. I am currently working as a Test Automation Engineer at Netaş company. I am furthering my expertise in the field of testing.
 
 [![Mail](https://icons.iconarchive.com/icons/harwen/pleasant/32/E-mail-icon.png)](mailto:evrenakgun3@gmail.com)
 [![Linkedin](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/evrenakgün/)
